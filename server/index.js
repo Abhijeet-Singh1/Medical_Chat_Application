@@ -8,9 +8,9 @@ const PORT = process.env.PORT || 5000;
 
 require("dotenv").config();
 
-const accountSid = "ACe48d1fe52870571c40c2ad12ad3ee30a";
-const authToken = "30355ec6f03a6ff45016b60763d5d756";
-const messagingServiceSid = "MG74b807a29900dc68d9f9b09667dd90eb";
+const accountSid = process.env.TWILIO_ACCOUNT_ID;
+const authToken = process.env.TWILIO_AUTH_TOKEN;
+const messagingServiceSid = process.env.TWILIO_MESSAGING_ID;
 const twilioClient = require("twilio")(accountSid, authToken);
 
 app.use(cors());
