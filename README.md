@@ -6,3 +6,7 @@ This is a secure chatting application for healthcare professionals that doctors,
 5. The user can react to a particular message.
 4. Documents like reports or receipts can be uploaded and send to the other user.
 
+
+<img width="1268" alt="1" src="https://user-images.githubusercontent.com/24964774/214507677-cd50e850-18f8-4347-83f4-9051039e76b2.png">
+
+
