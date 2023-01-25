@@ -10,3 +10,8 @@ This is a secure chatting application for healthcare professionals that doctors,
 <img width="1268" alt="1" src="https://user-images.githubusercontent.com/24964774/214507677-cd50e850-18f8-4347-83f4-9051039e76b2.png">
 
 
+
+<img width="1278" alt="2" src="https://user-images.githubusercontent.com/24964774/214507723-36c336bc-21b6-4df3-8886-ac4c16af0bec.png">
+
+
+
